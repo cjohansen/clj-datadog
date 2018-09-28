@@ -18,7 +18,7 @@ Include the following dependency in your project.clj file:
 
 To start tracking events and sending them to DataDog, you firstly have
 to register account and install
-[DataGog agent](http://docs.datadoghq.com/guides/basic_agent_usage/)
+[DataDog agent](http://docs.datadoghq.com/guides/basic_agent_usage/)
 that will start StatsD server on the machine you are running your
 application.
 
